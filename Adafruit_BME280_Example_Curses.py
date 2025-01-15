@@ -18,7 +18,7 @@ def main(stdscr):
         stdscr.addstr(5, 0, 'Press any key to exit...')
         stdscr.refresh()
 
-        time.sleep(3)
+        time.sleep(5)
 
         stdscr.erase()
 
